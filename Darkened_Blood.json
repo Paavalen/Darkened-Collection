@@ -153,7 +153,16 @@
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#CC001114"
-        ]
+        ],
+        "BORDER_FAINT": [
+            "#CC0011"
+        ],
+        "BORDER_STRONG": [
+            "#CC0011"
+        ],      
+        "BORDER_SUBTLE": [
+            "#CC0011"
+      ]
     },
     "rawColors": {
         "BLUE_345": "#CC0011",
