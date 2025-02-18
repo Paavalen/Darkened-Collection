@@ -8,70 +8,70 @@
     ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#0E0E0F"
+            "#000000FF"
         ],
         "ANDROID_RIPPLE": [
             "#B3000F23"
         ],
         "BACKGROUND_ACCENT": [
-            "#141415"
+            "#000000FF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#8c8c8c12"
+            "#00000012"
         ],
         "BACKGROUND_PRIMARY": [
-            "#09090A"
+            "#000000FF"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0f0f10"
+            "#000000FF"
         ],
         "BACKGROUND_MENTIONED": [
             "#CC001115"
         ],
         "BG_BASE_TERTIARY": [
-            "#040405"
+            "#000000FF"
         ],
         "BG_BASE_PRIMARY": [
-            "#09090A"
+            "#000000FF"
         ],
         "BG_BASE_SECONDARY": [
-            "#09090A"
+            "#000000FF"
         ],
         "BG_BRAND": [
             "#CC001195"
         ],
         "BG_SURFACE_RAISED": [
-            "#0E0E0F"
+            "#000000FF"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
-            "#0B0B0C"
+            "#000000FF"
         ],
         "CARD_PRIMARY_BG": [
-            "#0E0E0F"
+            "#000000FF"
         ],
         "CARD_SECONDARY_BG": [
-            "#0E0E0F"
+            "#000000FF"
         ],
         "CHANNEL_ICON": [
             "#CC001166"
         ],
         "EMBED_BACKGROUND": [
-            "#111011"
+            "#000000FF"
         ],
         "EMBED_BACKGROUND_ALTERNATE": [
-            "#111011"
+            "#000000FF"
         ],
         "INTERACTIVE_ACTIVE": [
             "#CC0011"
         ],
         "INTERACTIVE_MUTED": [
-            "#262627"
+            "#000000FF"
         ],
         "INTERACTIVE_NORMAL": [
             "#CC0011"
         ],
         "PANEL_BG": [
-            "#0C0C0D"
+            "#000000FF"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
             "#74000A"
@@ -119,13 +119,13 @@
             "#CC0011"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#0E0E0F"
+            "#000000FF"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#0E0E0F"
+            "#000000FF"
         ],
         "INPUT_BACKGROUND": [
-            "#0E0E0F"
+            "#000000FF"
         ],
         "TEXT_DANGER": [
             "#F83838"
@@ -169,18 +169,18 @@
         "PLUM_13": "#CC0011",
         "PLUM_14": "#1D1D21",
         "PLUM_15": "#CC0011",
-        "PLUM_16": "#1D1D21",
-        "PLUM_17": "#0E0E0F",
-        "PLUM_18": "#111011",
+        "PLUM_16": "#000000FF",
+        "PLUM_17": "#000000FF",
+        "PLUM_18": "#000000FF",
         "PLUM_19": "#74000A",
-        "PLUM_20": "#09090A",
-        "PLUM_22": "#0E0E0F",
-        "PLUM_24": "#191919",
-        "PRIMARY_500": "#1E1D1E",
-        "PRIMARY_600": "#0b080d",
-        "PRIMARY_660": "#141314",
-        "PRIMARY_700": "#0f0f10",
-        "PRIMARY_800": "#0C0B0C"
+        "PLUM_20": "#000000FF",
+        "PLUM_22": "#000000FF",
+        "PLUM_24": "#000000FF",
+        "PRIMARY_500": "#000000FF",
+        "PRIMARY_600": "#000000FF",
+        "PRIMARY_660": "#000000FF",
+        "PRIMARY_700": "#000000FF",
+        "PRIMARY_800": "#000000FF"
     },
     "spec": 2,
     "plus": {
