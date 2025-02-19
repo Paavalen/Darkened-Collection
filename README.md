@@ -1,5 +1,9 @@
-# Darkened-Blood
-A dark themes with colorful accents for Revenge 
+# Description
+A fork of [Purple-EyeZ/Darkened-Collection](https://github.com/Purple-EyeZ/Darkened-Collection) for personal use 
+
+# Darkened-Blood 
+A Amoled dark themes with red accents for Revenge 
+
 
 ## Links:
 
