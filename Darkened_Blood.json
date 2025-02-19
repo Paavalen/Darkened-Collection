@@ -80,7 +80,7 @@
             "#74000A"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#74000A"
+            "#CC0011"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
             "#CC0011"
@@ -131,7 +131,7 @@
             "#F83838"
         ],
         "BUTTON_OUTLINE_DANGER_BORDER": [
-            "#F83838"
+            "#CC0011"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#f23f431a"
